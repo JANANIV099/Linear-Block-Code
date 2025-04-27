@@ -105,4 +105,3 @@ Thus,Linear Block Code for the Given input is successfully verifiedAttach the ou
 ![Screenshot 2025-04-27 154438](https://github.com/user-attachments/assets/4fe405a3-6964-4ee7-a364-79489d3a4b46)
 ![Screenshot 2025-04-27 154505](https://github.com/user-attachments/assets/ebcf68a5-6d1e-4866-823f-9afbd197c321)
 
-# Hardware experiment output waveform.
